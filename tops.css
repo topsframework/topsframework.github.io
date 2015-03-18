@@ -1,0 +1,70 @@
+#header {
+  background:  #baccd8;
+  background-image: url("tops.png");
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  padding: 3.5em;
+  margin: 0;
+}
+ 
+#header h1 {
+margin: 0;
+padding: 0;
+font-size:180%;
+line-height: 1em;
+font-weight: normal;
+visibility:hidden;
+}
+ 
+#sidebar {
+float: right;
+width:18em;
+padding: 2em 0;
+}
+ 
+#content{
+float: left;
+width: 30em;
+padding: 2em 0;
+}
+ 
+pre {
+    background: #cc9;
+}
+
+#sidebar p, #sidebar ul, #sidebar ol, #sidebar dl { 
+padding-left:20px;
+padding-right:20px;
+}
+ 
+#footer{
+clear:both;
+background: #cc9;
+padding: 1em 2em;
+text-align: center;
+color: #fff;
+background: #8194a1;
+}
+ 
+#wrap {
+width:50em;
+margin: 0 auto;
+padding:2em;
+background: #dae3e9;
+ 
+}
+body {
+    font: 80% georgia, sans-serif;
+}
+ 
+h3 {
+font-size:1.8em;
+}
+ 
+ul li {
+    font-size: 1em;
+}
+ 
+p { font-size: 1.2em;}
